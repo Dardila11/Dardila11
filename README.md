@@ -2,7 +2,7 @@
 
 I'm a freelance software engineer !
 
-- 🔭 I’m currently working on Mason Bricks and Flutter Games
+- 🔭 I’m currently working on Mason Bricks and Flutter ui chanllenges
 - 🌱 I’m currently learning flutter/dart and State management
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him
