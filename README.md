@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance software engineer !
+Hello! I'm Daniel, a passionate software engineer with a focus on iOS. I love creating cross-platform experiences using Flutter and diving into web development with React and Next.js. Let's build something amazing together!
 
 - 🔭 I’m currently working on Flutter apps and Flutter ui chanllenges
 - 🌱 I’m currently learning flutter/dart and State management
