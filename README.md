@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello! I'm Daniel, a passionate software engineer with a focus on iOS. I love creating cross-platform experiences using Flutter and diving into web development with React and Next.js. Let's build something amazing together!
+I'm Daniel Ardila
 
-- 🔭 I’m currently working on NextJs apps
+- 🔭 I’m currently working on NextJs and Springboot Java apps
 - 🌱 I’m currently learning of external APIs integrations
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him
